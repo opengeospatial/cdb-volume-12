@@ -1,0 +1,12 @@
+{
+        "1": {
+                "OGC_doc_number": "16-003r4",
+                "urn":"http://www.opengis.net/doc/BP/CDB-navaids/1.2",
+                "title":"Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values",
+                "path":"standard_document.adoc",
+                "options": ["--trace"],
+                "a":[
+                        "data-uri"
+                ]
+        }
+}
