@@ -1,5 +1,5 @@
-:Title: Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values
-:titletext: Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values
+:Title: Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values (Best Practice)
+:titletext: Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values (Best Practice)
 :doctype: book
 :encoding: utf-8
 :lang: en
@@ -54,7 +54,7 @@ topic.
 |===
 |Document type:   	    OGC® Best Practice
 |Document subtype:   
-|Document stage:   	Approved
+|Document stage:   	Draft
 |Document language: 	English
 |===
 
